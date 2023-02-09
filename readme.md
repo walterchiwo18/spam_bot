@@ -1,0 +1,1 @@
+So the code is almost ready to be used for spamming.  All you have to do is go to manage account settings in gmail, then in security turn on two step verification if and click on app passcode. Use that passcode for the passcode in the code.
